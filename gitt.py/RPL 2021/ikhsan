@@ -1,0 +1,4 @@
+nama = "ikhsan"
+print("nama saya adalah {}".format(nama))
+
+print("nama saya adalah", nama)
