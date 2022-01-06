@@ -1,3 +1,5 @@
+# Contoh soal penginputan 3 nilai  dan penginputan minat jurusan
+# Jika nilai rata-rata dibawah 70 maka dinyatakan tidak lulus, jika nilai rata-rata 70 maka akan lolos dengan jurusan yang dia pilih, jika nilai diatas 70 maka bebas memilih jurusan yang ia sukai.
 print("Penginputan Nilai")
 mtk = int(input('Nilai MTK : '))
 b_ing = int(input('Nilai Bahasa Inggris : '))
