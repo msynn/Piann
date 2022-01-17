@@ -5,7 +5,6 @@ jumlahmatkul = int(input('Jumlah Mata Kuliah : '))
 print(20*'=','\n')
 listBobotMK = [] 
 listSKS = []
-namaMatkul = []
 
 for i in range (0,jumlahmatkul):
     namaMatkul = input('Nama mata Kuliah : ') 
