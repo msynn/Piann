@@ -36,7 +36,7 @@ hargaCuciKilat = 6000
 def nmr1():
     print("Cuci Biasa",proses,"hari\t\t: Rp.",hargaCuciBiasa)
 def nmr2():
-    print("Cuci plus Setrika",proses,"hari\t\t: Rp.",hargaCuciSetrika)
+    print("Cuci plus Setrika",proses,"hari\t: Rp.",hargaCuciSetrika)
 def nmr3():
     print("Cuci Kilat",proses,"hari\t\t: Rp.", hargaCuciKilat)
 
